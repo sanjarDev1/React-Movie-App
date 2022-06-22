@@ -37,6 +37,10 @@
     ],
     "overrides": {
       "autoprefixer": "10.4.5"
-  }
+  },
+  "resolutions": {
+    "browserslist": "4.6.2",
+    "caniuse-lite": "1.0.30000974"
+  },
   }
 }
